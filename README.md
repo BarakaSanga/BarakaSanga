@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BarakaSanga
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning JavaScript programming language.
-- 💞️ I’m looking to collaborate on programming.
+- 💞️ I’m looking to collaborate on code learning.
 - 📫 How to reach me: barakaictcourse@gmail.com or whatsap: +255764185272;
 
 <!---
